@@ -1,0 +1,2 @@
+Running file:  /home/tgada/Transformer/thuml-Anomaly-Transformer/data_preprocessing/Yahoo/A1Benchmark/real_10.csv
+Train_size=1151 TrainSizePositive=0 TrainSizeNegative=1151 Test_size=288 TestSizePositive=13 TestSizeNegative=275
